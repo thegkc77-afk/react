@@ -1,0 +1,16 @@
+.class{
+  background-color: red;
+  display: flex;
+  gap: 52px;
+ 
+}
+
+.div{
+  background-color: red;
+  width: 100px;
+
+}
+
+.im{
+  border-radius: 50%;
+}
